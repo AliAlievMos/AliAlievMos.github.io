@@ -17,9 +17,9 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: СТИХИ НА ЗАКАЗ
+#  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+#  footer: [ПОМОГАЕМ УЕХАТЬ](https://gohugo.io/)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
@@ -49,9 +49,6 @@ menu:
     - name: Заказать стихи
       url: /about/
       weight: 3
-    - name: RSS
-      url: /index.xml
-      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark

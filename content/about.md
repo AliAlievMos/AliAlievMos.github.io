@@ -1,16 +1,18 @@
 ---
 date: "2014-04-09"
-title: "About"
+title: "Заказать стихи"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Регламент прост: координатор_ки проекта принимают ваш запрос и денежный перевод (free donation от 500 ₽) и передают сформулированную вами тему выбранному вами автору или авторке. Когда стихотворение будет готово мы перешлём его вам и опубликуем в социальных сетях проекта (с вашего разрешения) вместе с чеками, подтверждающими донат благотворительной инициативе. Все дополнительные вопросы и любые сложности разрешим в личной переписке.
 
-It makes use of a variety of open source projects including:
+Запрос можно отправить через специальную форму (https://docs.google.com/forms/d/e/1FAIpQLSdb-e6oYZA2QVRRKe1bv1yjyEVSPwHcuY8yqhvHWTPDf-npAw/viewform). При необходимости пишите напрямую на flagspublishing@gmail.com или в telegram координатор_кам: Софье Сурковой (@soijia), Михаилу Бордуновскому (@mrezra).
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Сейчас в проекте задействованы тринадцать автор_ок. Вот их перечень в алфавитном порядке (а подробная информация о кажд_ой из них – ниже): София Амирова, Ульяна Баранова, Михаил Бордуновский, Алла Гутникова, Дарья Данилова, Софья Дубровская, Владимир Кошелев, Серафима Литвиненко, Сергей Романцов, Василий Савельев, Дани Соболев, Софья Суркова, Лиза Хереш. В дальнейшем пул автор_ок может быть расширен.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+__Инициативы:__
+
+[ПОМОГАЕМ УЕХАТЬ](https://helpingtoleave.org/ru)
+
+[ПОМОЩЬ ЖЕНЩИНАМ В УКРАИНЕ](https://bysol.org/ru/initiatives/helptowomen/)
+
+[ГРАЖДАНСКОЕ СОДЕЙСТВИЕ](https://refugee.ru)
