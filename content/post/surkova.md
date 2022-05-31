@@ -12,9 +12,11 @@ title: "Софья Суркова"
 
 – TextOnly;
 
-– Флаги;
+– Флаги; (https://flagi.media/author/29)
 
 – Цирк «Олимп» +TV (https://www.cirkolimp-tv.ru/articles/1021/rehab)
+***
+**
 
 Из «Других песней Мальдорора»
 

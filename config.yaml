@@ -1,6 +1,8 @@
-baseURL:  https://alialievmos.github.io/poemstoorder/
+
+baseURL: https://alialievmos.github.io/poemstoorder/
+
 languageCode: en-us
-defaultContentLanguage: en
+defaultContentLanguage: ru
 title: Стихи на заказ
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
@@ -18,7 +20,7 @@ imaging:
 
 params:
   description: СТИХИ НА ЗАКАЗ
-#  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+#  homeMetaContent: СТИХИ НА ЗАКАЗ
 #  footer: [ПОМОГАЕМ УЕХАТЬ](https://gohugo.io/)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
