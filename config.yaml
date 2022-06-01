@@ -1,5 +1,5 @@
 
-baseURL: https://github.com/AliAlievMos/poems-to-order.git
+baseURL: https://alialievmos.github.io/poems-to-order/
 
 languageCode: en-us
 defaultContentLanguage: ru
@@ -21,7 +21,7 @@ imaging:
 params:
   description: СТИХИ НА ЗАКАЗ
 #  homeMetaContent: СТИХИ НА ЗАКАЗ
-#  footer: [ПОМОГАЕМ УЕХАТЬ](https://gohugo.io/)
+  footer: инициативы [ПОМОГАЕМ УЕХАТЬ](https://helpingtoleave.org/ru)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser

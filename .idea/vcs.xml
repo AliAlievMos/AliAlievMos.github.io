@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poems-to-order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/cupper-hugo-theme" vcs="Git" />
   </component>
 </project>
