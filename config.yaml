@@ -19,7 +19,7 @@ imaging:
   quality: 99
 
 params:
-  description: СТИХИ НА ЗАКАЗ
+  description: СТИХИ НА ЗАКАЗ собираем донаты для инициатив, помогающих бежен_кам
 #  homeMetaContent: СТИХИ НА ЗАКАЗ
   footer: инициативы [ПОМОГАЕМ УЕХАТЬ](https://helpingtoleave.org/ru)
   # For more date formats see https://gohugo.io/functions/format/
@@ -42,13 +42,13 @@ params:
 
 menu:
   nav:
-    - name: О нас
+    - name: О проекте
       url: /
       weight: 1
-    - name: Авторы
+    - name: Автор_ки
       url: /post/
       weight: 2
-    - name: Заказать стихи
+    - name: Сделать заказ
       url: /about/
       weight: 3
 
