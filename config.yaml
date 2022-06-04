@@ -21,7 +21,7 @@ imaging:
 params:
   description: СТИХИ НА ЗАКАЗ собираем донаты для инициатив, помогающих бежен_кам
 #  homeMetaContent: СТИХИ НА ЗАКАЗ
-  footer: инициативы [ПОМОГАЕМ УЕХАТЬ](https://helpingtoleave.org/ru)
+  footer: инициативы [/poems-to-order/css/images/icon_index.svg](https://helpingtoleave.org/ru)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
